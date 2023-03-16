@@ -2,7 +2,9 @@
 API Rest em Spring Boot
 
 Testes realizados no Insomnia (http://localhost:8080/medicos; http://localhost:8080/pacientes)
+
 POST MEDICOS
+
 {
 "nome": "Francisco José",
 "email": "frank@voll.med",
